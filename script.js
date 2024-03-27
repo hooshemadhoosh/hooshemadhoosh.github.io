@@ -1,2 +1,1 @@
-$(document).ready(function(){
-    alert("Hi");})
+alert("Hi");
